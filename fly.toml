@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for chessstats-jwakvg on 2026-11-22T09:50:33Z
+# fly.toml app configuration file generated for chessstats-p8svcw on 2026-11-22T11:27:06Z
 #
 # See https://docs.fly.io/reference/configuration for information about how to use this file.
 #
 
-app = 'chessstats-jwakvg'
+app = 'chessstats-p8svcw'
 primary_region = 'ams'
 
 [build]
